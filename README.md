@@ -123,3 +123,5 @@ NOTE: Fw update functionality via SD card is disabled in debug builds due to cod
 make rv-reprogram && nios2-terminal
 ~~~~
 Remember to close nios2-terminal after debug session, otherwise any JTAG transactions will hang/fail.
+
+teste
